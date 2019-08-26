@@ -1,6 +1,9 @@
 "# 3MonthCalendar" 
 
-Copyright 2019 Alexandnder Rudnev
+Based on https://github.com/MichMich/MagicMirror
+Does contain files from MagicMirror project, modified or unmodified
+
+Copyright 2019 Alexander Rudnev
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
